@@ -18,5 +18,20 @@ window.PROJECTS = [
     repo: "",   // add your GitHub repository URL (https://...)
     demo: "",   // add the live demo URL once deployed (https://...)
     caseStudy: "projects/codenest.html"
+  },
+  {
+    id: "folio-resume-builder",
+    featured: false,
+    title: "Folio",
+    subtitle: "Live resume builder",
+    status: "Completed",
+    description:
+      "A resume builder with a live A4 preview. It has four templates, section reordering, autosave in the browser, JSON import and export, and PDF download through print.",
+    tags: ["HTML", "CSS", "JavaScript"],
+    image: "assets/images/projects/folio.png",
+    imageAlt: "Folio resume builder with an editor on the left and a live A4 resume preview on the right",
+    repo: "https://github.com/Vaibhav011007/Live-Resume-Builder",
+    demo: "https://live-resume-builder.vercel.app",   // replace with your real Vercel link
+    caseStudy: ""
   }
 ];
