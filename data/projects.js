@@ -4,7 +4,7 @@
  * Empty repo/demo values mean the buttons are not shown.
  */
 window.PROJECTS = [
-  {
+ {
     id: "codenest",
     featured: true,
     title: "CodeNest",
