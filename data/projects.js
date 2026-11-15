@@ -31,7 +31,7 @@ window.PROJECTS = [
     image: "assets/images/projects/folio.png",
     imageAlt: "Folio resume builder with an editor on the left and a live A4 resume preview on the right",
     repo: "https://github.com/Vaibhav011007/Live-Resume-Builder",
-    demo: "resumebuilder-rust-nine.vercel.app",   // replace with your real Vercel link
+     demo: "https://resumebuilder-rust-nine.vercel.app",  // replace with your real Vercel link
     caseStudy: ""
   }
 ];
